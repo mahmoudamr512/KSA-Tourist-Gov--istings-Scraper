@@ -5,8 +5,8 @@
 ## TOC:
 
 - [Dependencies](#dependencies)
-- [Scraper overview and how to run it](##scraper-overview-and-how-to-run-it)
-- [Future Improvements](##future-improvements)
+- [Scraper overview and how to run it](#scraper-overview-and-how-to-run-it)
+- [Future Improvements](#future-improvements)
 
 ## Dependencies:
 
