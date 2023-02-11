@@ -1,0 +1,5 @@
+SpeechRecognition
+tqdm
+requests
+bs4
+pywin32

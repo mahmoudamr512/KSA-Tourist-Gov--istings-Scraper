@@ -1,0 +1,6 @@
+venv/
+*.crdownload
+*.exe
+build/
+dist/
+__pycache__/
